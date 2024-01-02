@@ -12,7 +12,7 @@ Zhiqing Guo (Member, IEEE) is currently an Associate Professor at the School of 
 ### 图像/视频内容安全(Image/Video Content Security)
   - 深度伪造检测（Deepfake Detection）
   - 图像隐写与分析（Image Steganography and Steganalysis）
-### 视觉场景理解与分析(Visual Scene Understanding and Analysis)
+### 视觉场景理解(Visual Scene Understanding)
   - 视频异常行为识别（Video Abnormal Behavior Recognition）
   - 目标检测与跟踪（Object Detection and Tracking）
 ### 系统/架构安全(System/Architecture Security)
