@@ -6,7 +6,7 @@ VPSG负责人：郭治卿
 [个人主页](https://www.guozhiqing.cn/)
 
 VPSG围绕计算机视觉、信息安全和深度学习等领域，进行一些交叉方向的研究，旨在为新疆地区公共安全治理与防范工作提供技术支撑。
-# VPSG的主要研究方向包括：
+# 主要研究方向：
 ## 图像/视频内容安全
   - 深度伪造检测（Deepfake Detection）
   - 图像隐写与分析（Image Steganography and Steganalysis）
