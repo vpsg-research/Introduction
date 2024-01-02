@@ -9,13 +9,13 @@ The Visual Perception and Security Group (VPSG) is affiliated to the Multi-modal
 Zhiqing Guo (Member, IEEE) is currently an Associate Professor at the School of Computer Science and Technology, Xinjiang University, Urumqi, China. In December 2022, he joined Xinjiang University to engage in teaching and scientific research. In April 2023, he was officially awarded the Ph.D. degree in computer science and technology from Hunan University, and was introduced to the School of Computer Science and Technology of Xinjiang University with A-level young talents. In September 2023, he was hired as a master tutor. In December 2023, he became an associate professor and was selected into the Tianchi Young Doctoral Talents Program of the Xinjiang Province. At present, he is the PI of several projects, such as the Natural Science Foundation of China (NSFC), with a total fund of over ￥1.2 million. He has published more than ten papers, including eight papers published by the first author in international journals such as TIFS, TMM, TCSVT and CVIU. He won two invention patents as the first inventor. He is a member of Technical Committee (TC) on Digital Forensics and Security of China Society of Image and Graphics (CSIG), TC on Computer Vision of China Computer Federation (CCF), TC on Artificial Intelligence and Pattern Recognition of CCF. He is the reviewer of international journals and conferences such as IEEE TIFS, TMM, TCSVT, ACM TOMM, ACM MM, CVIU and Information Fusion. See [Personal Homepage](https://www.guozhiqing.cn/) for details.
 
 ## Research Interests
-### 图像/视频内容安全
+### 图像/视频内容安全(Image/Video Content Security)
   - 深度伪造检测（Deepfake Detection）
   - 图像隐写与分析（Image Steganography and Steganalysis）
-### 视觉场景理解与分析
+### 视觉场景理解与分析(Visual Scene Understanding and Analysis)
   - 视频异常行为识别（Video Abnormal Behavior Recognition）
   - 目标检测与跟踪（Object Detection and Tracking）
-### 系统/架构安全
+### 系统/架构安全(System/Architecture Security)
   - 可信计算（Trusted Computing）
   - 可信访问控制（Trusted Access Control）
   - 可信云（Trusted Cloud）
