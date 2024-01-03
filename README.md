@@ -1,5 +1,5 @@
 # Visual Perception and Security Group (VPSG) 
-## Introduction
+## Brief Introduction
 视觉感知与安全组（Visual Perception and Security Group，VPSG）隶属于由[汪烈军教授](https://it.xju.edu.cn/info/1155/1407.htm)负责的新疆大学计算机学院多模态信息感知与安全实验室（Multi-modal Information Perception and Security Laboratory，MIPS Lab）。VPSG主要围绕计算机视觉、信息安全和深度学习等领域，进行一些交叉方向的研究，旨在为新疆地区公共安全治理与防范工作提供技术支撑。
 
 The Visual Perception and Security Group (VPSG) is affiliated to the Multi-modal Information Perception and Security Laboratory (MIPS Lab), School of Computer Science and Technology of Xinjiang University. MIPS Lab is led by [Prof. Liejun Wang](https://it.xju.edu.cn/info/1155/1407.htm). VPSG mainly focuses on the cross-research of computer vision, information security and deep learning, aiming at providing technical support for public safety prevention and control in Xinjiang Province.
