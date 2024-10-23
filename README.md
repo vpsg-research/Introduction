@@ -17,8 +17,4 @@ Zhiqing Guo (Member, IEEE) is currently an Associate Professor at the School of 
 ### 视觉场景理解(Visual Scene Understanding)
   - 视频异常行为识别（Video Abnormal Behavior Recognition）
   - 目标检测与跟踪（Object Detection and Tracking）
-### 系统/架构安全(System/Architecture Security)
-  - 可信计算（Trusted Computing）
-  - 可信访问控制（Trusted Access Control）
-  - 可信云（Trusted Cloud）
-  - 可信度量（Trusted Measurement)
+  - 医学图像处理（Medical Image Processing）
